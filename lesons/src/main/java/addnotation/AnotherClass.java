@@ -1,0 +1,4 @@
+package addnotation;
+
+ class AnotherClass {
+}
