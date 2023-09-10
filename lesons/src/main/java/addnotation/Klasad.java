@@ -57,9 +57,17 @@ public class Klasad {
 
 
 
-     @SuperMethods(true)
      public int calculateSum(int a , int b ){
         return a+b;
      }
 
+    public String concatenateStrings(String str1, String str2) {
+        return str1 + str2;
+
+}
+
+
+    public double calculateProduct(double v) {
+        return v;
+    }
 }
