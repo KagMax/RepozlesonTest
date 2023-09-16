@@ -18,5 +18,7 @@ public class typ {
         double r = 99.9989;
         System.out.println("hello");
 
+
+
     }
 }
